@@ -8,6 +8,11 @@ namespace GitFlowTraining
         {
 
             Console.WriteLine(Utils.isOdd(3));
+            Console.WriteLine(Utils.isOdd(3));
+            Console.WriteLine(Utils.isOdd(3));
+            Console.WriteLine(Utils.isOdd(3));
+            Console.WriteLine(Utils.isOdd(3));
+            Console.WriteLine(Utils.isOdd(3));
 
         }
     }

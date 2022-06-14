@@ -6,6 +6,7 @@ namespace GitFlowTraining
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(Utils.IsOdd(3);
         }
     }
 }

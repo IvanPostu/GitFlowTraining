@@ -32,6 +32,7 @@
 <br />
 
 - Explain `revert` command ( IMPORTANT!!! specify difference between `revert` and `reset` )
+- git revert HEAD~2..HEAD --no-commit
   
 - (Optional) Explain `log` and flags `--all`, `--oneline` and `--graph` -> *Can be used SourceTree or VScode with GitHistory Extension* 
 
